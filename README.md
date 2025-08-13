@@ -6,6 +6,7 @@ Chef's Place, modern bir restoran web sitesi arayüzü sunar. Kullanıcılar men
 ![RestaurantWebsite gif](https://github.com/user-attachments/assets/e855b389-eda9-4ac2-856f-7d7549845dff)
 
 🔗 Live Demo:
+
 👉https://chefs-place-homepage.netlify.app/
 
 ## 🚀 Özellikler
