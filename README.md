@@ -2,10 +2,11 @@
 
 Chef's Place, modern bir restoran web sitesi arayüzü sunar. Kullanıcılar menüyü inceleyebilir, ürün detaylarını görebilir, müşteri yorumlarını okuyabilir ve blog yazılarına ulaşabilir. Tamamen responsive tasarımı sayesinde masaüstü ve mobil cihazlarda kusursuz bir deneyim sağlar.
 
-## 📽️ Demo 
+## 📽️ Preview
 ![RestaurantWebsite gif](https://github.com/user-attachments/assets/e855b389-eda9-4ac2-856f-7d7549845dff)
 
-
+🔗 Live Demo:
+👉https://chefs-place-homepage.netlify.app/
 
 ## 🚀 Özellikler
 - 🛒 Sepet sistemi (ürün ekleme & çıkarma)
